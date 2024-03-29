@@ -50,20 +50,20 @@ communication skills
 
  ## LANGUAGES
  
-English
-**Advanced**
+English-
+*Advanced*
 
-Telugu
-Native
+Telugu-
+*Native*
 
-Hindi
-Intermediate
+Hindi-
+*Intermediate*
 
-Kannada
-Intermediate
+Kannada-
+*Intermediate*
 
-Tamil
-Intermediate
+Tamil-
+*Intermediate*
 
 
 
