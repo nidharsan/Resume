@@ -10,9 +10,9 @@
 
   Collaborated with 16+ global Clients with great accomplishment in On-Time and Quality Deliveries. 
 
-	Analyzed, and interpreted large volumes of data and delivered insights to clients using SQL. Developed and implemented ETL pipelines as per business requirements.
-	Conducted comprehensive data analysis on consumer behavior using Azure Databricks, providing insights to optimize product strategies.
-	Collaborated with cross-functional teams to design and implement data-driven solutions in Azure Machine Learning Studio.
+*	Analyzed, and interpreted large volumes of data and delivered insights to clients using SQL. Developed and implemented ETL pipelines as per business requirements.
+*	Conducted comprehensive data analysis on consumer behavior using Azure Databricks, providing insights to optimize product strategies.
+*	Collaborated with cross-functional teams to design and implement data-driven solutions in Azure Machine Learning Studio.
 	Utilized statistical techniques to analyze market trends and consumer preferences, contributing to strategic decision-making.
 	 Developed and maintained data visualizations to effectively communicate findings to non-technical stakeholders.
 	Actively participated in client meetings to understand data requirements and deliver actionable insights.
@@ -47,8 +47,7 @@ High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 
 	Discipline and diligence 
 
-	Interpersonal    and 
-communication skills
+	Interpersonal and communication skills
 
  ## LANGUAGES
  
