@@ -36,6 +36,7 @@ High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 ## CERTIFICATIONS
 
 	Introduction to Data Science course offered by CISCO.
+
 	International Math’s Olympiad Secured a rank in international math’s Olympiad in 10th class.
         
 ## STRENGTHS
