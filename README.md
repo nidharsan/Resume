@@ -51,7 +51,7 @@ communication skills
  ## LANGUAGES
  
 English
-Advanced
+*Advanced*
 
 Telugu
 Native
