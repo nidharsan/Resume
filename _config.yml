@@ -1,7 +1,7 @@
 title: Nidharsan Reddy.P
 logo: /WhatsApp Image 2024-02-28 at 6.27.18 PM.jpeg
 description: |
-  Welcome to my digital domain. I am Nidharsan Reddy.P, a dedicated individual passionate about leveraging data for business analytics.Proficient in Python, Azure, Power BI, R, and SQL, I excel in team management With experience as a shift lead, I've demonstrated my ability to effectively coordinate and manage teams, ensuring smooth operations and timely project delivery.
+  Welcome to my digital domain.I am Nidharsan Reddy.P, a dedicated individual passionate about leveraging data for business analytics.Proficient in Python, Azure,Power BI, R,andSQL.Worked as a shift lead, I've demonstrated my ability to effectively coordinate and manage teams, ensuring smooth operations and timely project delivery.
 show_downloads: true
 theme: jekyll-theme-minimal
 author:
@@ -15,8 +15,7 @@ social_links:
     icon: linkedin
 css: |
   .site-logo img {
-    border-radius: 50%;
-    width: 200px; /* Adjust size as needed */
-    height: 200px; /* Adjust size as needed */
-    object-fit: cover;
+    border: 4px solid #000; /* Black border with 4px thickness */
+    width: 150px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
   }
