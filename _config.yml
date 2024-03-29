@@ -1,7 +1,7 @@
 title: Nidharsan Reddy.P
 logo: /WhatsApp Image 2024-02-28 at 6.27.18 PM.jpeg
 description: |
-  Welcome to my digital domain, where the convergence of data and innovation unlocks boundless opportunities. I am Nidharsan Reddy.P, a dedicated individual passionate about leveraging data for business analytics. Currently pursuing my Master of Science in Business Analytics at Northwood University in Michigan, I bring a diverse background and skills honed through a Bachelor of Technology in Computer Science from Presidency University, India. Proficient in Python, Azure, Power BI, R, and SQL, I excel in team management, efficiently assigning tasks, fostering open communication, and nurturing team members' problem-solving and interpersonal skills. With experience as a shift lead, I've demonstrated my ability to effectively coordinate and manage teams, ensuring smooth operations and timely project delivery.
+  Welcome to my digital domain. I am Nidharsan Reddy.P, a dedicated individual passionate about leveraging data for business analytics.Proficient in Python, Azure, Power BI, R, and SQL, I excel in team management With experience as a shift lead, I've demonstrated my ability to effectively coordinate and manage teams, ensuring smooth operations and timely project delivery.
 show_downloads: true
 theme: jekyll-theme-minimal
 author:
@@ -13,3 +13,10 @@ social_links:
   - platform: linkedin
     url: https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9/
     icon: linkedin
+css: |
+  .site-logo img {
+    border-radius: 50%;
+    width: 200px; /* Adjust size as needed */
+    height: 200px; /* Adjust size as needed */
+    object-fit: cover;
+  }
