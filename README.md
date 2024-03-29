@@ -52,14 +52,18 @@ communication skills
  
 English
 Advanced
+
 Telugu
 Native
+
 Hindi
 Intermediate
+
 Kannada
 Intermediate
-Telugu
-Native
+
+Tamil
+Intermediate
 
 
 
