@@ -6,7 +6,7 @@
 
 **Data processing Analyst/Shift Lead**
 
- # NielsenIQ Chennai, Tamil Nadu
+ *NielsenIQ, Chennai, TamilNadu(Oct 2021-Aug 2023)*
 
   Collaborated with 16+ global Clients with great accomplishment in On-Time and Quality Deliveries. 
 
