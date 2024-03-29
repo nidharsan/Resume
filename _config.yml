@@ -2,4 +2,9 @@ title: Nidharsan Reddy.P
 logo: /WhatsApp Image 2024-02-28 at 6.27.18 PM.jpeg
 description: Data Analyst
 show_downloads: true
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/nidharsan/jekyll/jekyll" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9/jekyllrb" }
