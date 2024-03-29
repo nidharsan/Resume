@@ -5,7 +5,8 @@
 ## WORK EXPERIENCE
 
 **Data processing Analyst/Shift Lead**
- NielsenIQ Chennai, Tamil Nadu
+
+ # NielsenIQ Chennai, Tamil Nadu
 
   Collaborated with 16+ global Clients with great accomplishment in On-Time and Quality Deliveries. 
 
