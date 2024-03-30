@@ -1,6 +1,6 @@
-# Nidharsan Reddy P's Resume
+# Nidharsan Reddy P
 
-## Contact Information
+## Contact Info
 - Location: Michigan, United States
 - Phone: +1 9898172457
 - Email: nidharsan1420@gmail.com
