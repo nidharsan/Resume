@@ -4,15 +4,13 @@
 - Location: Michigan, United States
 - Phone: +1 9898172457
 - Email: nidharsan1420@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9) ![LinkedIn Logo](https://github.com/nidharsan/Resume/blob/main/git.jpg)
-- [GitHub](https://github.com/nidharsan) ![GitHub Logo](linkedin.png)
+- [LinkedIn](https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9) 
+- [GitHub](https://github.com/nidharsan) 
 
 ## EDUCATION	
 
 Master’s in business analytics(2023-2024) | Northwood University, Midland, MI, USA
-
 Batchelor of Technology(2017-2021)	| Presidency University, Banglore, India
-
 High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 
 ## Summary
@@ -72,8 +70,4 @@ High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 - Kannada: Intermediate
 - Telugu: Native
 
-## Declaration
-I hereby certify that the above-given data are true and correct to the best of my knowledge and belief.
 
-Sincerely,  
-Nidharsan Reddy P
