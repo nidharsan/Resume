@@ -4,8 +4,8 @@
 - Location: Michigan, United States
 - Phone: +1 9898172457
 - Email: nidharsan1420@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9) ![LinkedIn Logo](C:\Users\nidha\Downloads\linkedin.png)
-- [GitHub](https://github.com/nidharsan) ![GitHub Logo](C:\Users\nidha\Downloads\git.jpg)
+- [LinkedIn](https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9) ![LinkedIn Logo](https://github.com/nidharsan/Resume/blob/main/git.jpg)
+- [GitHub](https://github.com/nidharsan) ![GitHub Logo](linkedin.png)
 
 ## EDUCATION	
 
