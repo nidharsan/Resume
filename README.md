@@ -1,29 +1,11 @@
-# DATA ANALYST
-#### Techinical skills: Python, SQL, PowerBI, ML, Azure
+# Nidharsan Reddy P's Resume
 
-
-## WORK EXPERIENCE
-
-**Data processing Analyst/Shift Lead**
-
- *NielsenIQ, Chennai, TamilNadu(Oct 2021-Aug 2023)*
-
-  Collaborated with 16+ global Clients with great accomplishment in On-Time and Quality Deliveries. 
-
-*	Analyzed, and interpreted large volumes of data and delivered insights to clients using SQL. Developed and implemented ETL pipelines as per business requirements.
-*	Conducted comprehensive data analysis on consumer behavior using Azure Databricks, providing insights to optimize product strategies.
-*	Collaborated with cross-functional teams to design and implement data-driven solutions in Azure Machine Learning Studio.
-	Utilized statistical techniques to analyze market trends and consumer preferences, contributing to strategic decision-making.
-	 Developed and maintained data visualizations to effectively communicate findings to non-technical stakeholders.
-	Actively participated in client meetings to understand data requirements and deliver actionable insights.
-	Expertise in managing data within the database and performing data preparation for the analysis using SQL.
-	Well-known for writing SQL Queries to create databases using the past data.
-	Well-known about JUPITE IDE is an open-source web application that you can use to create and share live codes, and visualizations.
-	Analyzed, and identified gaps and areas for improvement in statistical operations, and production environment and drove the convergence of processes and tools.
-	Led a team of six in a night shift role, ensuring timely project delivery to clients.
-	Managed team members by effectively allocating work, fostering strong communication, and nurturing problem-solving, communication, and interpersonal skills.
-	Maintained open lines of communication within the team, contributing to a collaborative and efficient work environment.
-	Successfully delivered projects on time, meeting client expectations.
+## Contact Information
+- Location: Michigan, United States
+- Phone: +1 9898172457
+- Email: nidharsan1420@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nidharsan-reddy-p-a204771b9) ![LinkedIn Logo](https://image.flaticon.com/icons/png/512/61/61109.png)
+- [GitHub](https://github.com/nidharsan) ![GitHub Logo](https://image.flaticon.com/icons/png/512/25/25231.png)
 
 ## EDUCATION	
 
@@ -33,39 +15,65 @@ Batchelor of Technology(2017-2021)	| Presidency University, Banglore, India
 
 High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 
-## CERTIFICATIONS
+## Summary
+- Technical data analyst with 2+ years of experience in data analysis and reporting.
+- Expert in providing analytical insights for retailers using sales and financial-related data.
+- Hands-on experience in building and processing large datasets and implementing machine learning workflows within the Databricks environment.
+- Proficient in designing and deploying machine learning models on the Azure platform.
+- Skilled in feature engineering, model training, and evaluation using Azure ML services.
+- Experienced in optimizing models for performance and scalability.
+- Proficient in leveraging Azure Databricks for big data analytics and collaborative data science.
+- Expert in using advanced MS Excel, PowerPivot, Power Query, and Power BI.
+- Skilled in building data models in PowerPivot and Power BI by fetching data from diverse sources.
+- Proficient in SQL for extracting and summarizing data from databases.
+- Strong understanding of RDBMS concepts and SQL query writing skills.
+- Well-versed with DDL, DRL, DML Statements, Joins, Functions, Sub Query, and Set Operators.
+- Ability to interpret business requirements and translate them into results.
+- Excellent written and verbal communication skills.
+- Quick learner and adaptable to new tools and technologies.
 
-	Introduction to Data Science course offered by CISCO.
+## Skills
+- Python (NumPy, Pandas, Matplotlib, TensorFlow)
+- SQL
+- Microsoft Azure Databricks
+- Azure Machine Learning Studio
+- MS Excel
+- Power BI
 
-	International Math’s Olympiad Secured a rank in international math’s Olympiad in 10th class.
-        
-## STRENGTHS
-  
-	Strong problem-solving skills.
+## Work Experience
+### Data Processing Analyst/Shift Lead
+**NielsenIQ, Chennai, Tamil Nadu**
 
-	Proven ability to work in teams.
+- Analyzed and interpreted large volumes of data using SQL and delivered insights to clients.
+- Developed and implemented ETL pipelines as per business requirements.
+- Conducted comprehensive data analysis on consumer behavior using Azure Databricks.
+- Collaborated with cross-functional teams to design and implement data-driven solutions in Azure Machine Learning Studio.Utilized statistical techniques to analyze market trends and consumer preferences.
+- Managed data within the database and performed data preparation for analysis using SQL.
+- Expertise in managing data within the database and performing data preparation for the analysis using SQL. Well-known for writing SQL Queries to create databases using past data.
+- Prepared accurate tracking KPIs to monitor and improve quality performances.
+- Analyzed and identified gaps and areas for improvement in statistical operations and production environment.
+- As a dedicated shift lead, I adeptly orchestrated the team's efforts to ensure the punctual delivery of projects to our clients.
+- I facilitated a collaborative environment conducive to problem-solving and interpersonal growth, These efforts culminated in the successful completion of projects within stipulated timelines, consistently meeting and exceeding client expectations.
 
-	Discipline and diligence 
+## Certifications
+- International Math's Olympiad (Ranked)
+- Introduction to Data Science (Cisco)
+- Azure AI Engineer (Microsoft)
 
-	Interpersonal and communication skills
+## Strengths
+- Interpersonal and communication skills
+- Discipline and diligence 
+- Systematic and organized 
+- Analytical skills
 
- ## LANGUAGES
- 
-English-
-*Advanced*
+## Languages
+- English: Advanced
+- Hindi: Intermediate
+- Kannada: Intermediate
+- Telugu: Native
 
-Telugu-
-*Native*
+## Declaration
+I hereby certify that the above-given data are true and correct to the best of my knowledge and belief.
 
-Hindi-
-*Intermediate*
-
-Kannada-
-*Intermediate*
-
-Tamil-
-*Intermediate*
-
-
-
-
+Sincerely,  
+Nidharsan Reddy P
