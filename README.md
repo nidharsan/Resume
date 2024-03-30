@@ -10,7 +10,9 @@
 ## EDUCATION	
 
 Master’s in business analytics(2023-2024) | Northwood University, Midland, MI, USA
+
 Batchelor of Technology(2017-2021)	| Presidency University, Banglore, India
+
 High School(2015 - 2017) | Narayana Jr College,	Nellore, India
 
 ## Summary
